@@ -29,6 +29,6 @@ you just need to stick this line into your i3config file.
 now, assuming you did everything right, you should have a popup like this appearing ever couple of minutes:
 ![image](https://user-images.githubusercontent.com/87496773/136070136-c057666e-c0b5-4ccc-b4c5-8078e2f22f29.png)
 
-# Dependencies:
-notify-send
+# Dependencies: 
+notify-send |
 cronie
